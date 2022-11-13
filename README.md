@@ -25,7 +25,7 @@ const img2url = require("img-to-url");
 
 #### Example :
 
-see [example.js](https://github.com/zaadevofc/img-to-url/example.js) for details.
+see [example.js](https://github.com/zaadevofc/img-to-url/blob/master/example.js) for details.
 
 ```js
 const getUrl = async () => {
