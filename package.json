@@ -1,6 +1,6 @@
 {
   "name": "img-to-url",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Upload Img to Url",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "nodejs"
   ],
   "author": "zaadevofc",
-  "license": "ISC",
+  "license": "Apache",
   "bugs": {
     "url": "https://github.com/zaadevofc/img-to-url/issues"
   },
